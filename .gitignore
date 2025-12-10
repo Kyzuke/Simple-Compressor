@@ -1,0 +1,96 @@
+# ============================================
+# JUCE + C++ PROJECTS
+# ============================================
+
+# Build artefacts
+Builds/
+cmake-build*/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+
+# JUCE auto-generated binary data
+BinaryData.cpp
+BinaryData.h
+
+# ============================================
+# VISUAL STUDIO (Windows)
+# ============================================
+
+# Visual Studio cache / temp / user data
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug*/
+[Rr]elease*/
+x64/
+x86/
+*.obj
+*.o
+*.pch
+*.idb
+*.pdb
+*.ipdb
+*.iobj
+*.ilk
+*.cachefile
+
+# Logs
+*.tlog
+*.log
+
+# Others
+*.db
+*.opendb
+*.VC.db
+
+# ============================================
+# PLUGINS / BINÁRIOS
+# ============================================
+
+# VST3 builds
+*.vst3/
+*.vst3
+
+# AAX
+*.aaxplugin/
+*.aaxplugin
+
+# Standalone App
+*.exe
+*.app
+*.dmg
+
+# Shared libs
+*.dll
+*.dylib
+*.so
+
+# ============================================
+# IDEs OPCIONAIS
+# ============================================
+
+# CLion / JetBrains
+.idea/
+
+# VSCode
+.vscode/
+
+# ============================================
+# SISTEMA OPERACIONAL
+# ============================================
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Linux
+*~
